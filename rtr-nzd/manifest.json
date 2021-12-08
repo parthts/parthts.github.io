@@ -1,0 +1,32 @@
+{
+    "name": "Business RTR (NZD)",
+    "short_name": "reternX",
+    "theme_color": "#981B1E",
+    "icons": [
+      {
+        "src": "https://reternx-customer-portal.vercel.app/img/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://reternx-customer-portal.vercel.app/img/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "https://reternx-customer-portal.vercel.app/img/icons/android-chrome-maskable-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "https://reternx-customer-portal.vercel.app/img/icons/android-chrome-maskable-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ],
+    "start_url": "https://reternx-customer-portal.vercel.app/login/XWRUBqbQqqPWB3qcjGZEnG54kVtXoyVQSkcMyjnNWWyD6T80mTMeMOKPlqGtmVPb_1635834037",
+    "display": "standalone",
+    "background_color": "#000000"
+  }

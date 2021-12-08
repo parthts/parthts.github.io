@@ -1,0 +1,32 @@
+{
+    "name": "Business RTR (AUS)",
+    "short_name": "reternX",
+    "theme_color": "#981B1E",
+    "icons": [
+      {
+        "src": "https://reternx-customer-portal.vercel.app/img/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://reternx-customer-portal.vercel.app/img/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "https://reternx-customer-portal.vercel.app/img/icons/android-chrome-maskable-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "https://reternx-customer-portal.vercel.app/img/icons/android-chrome-maskable-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ],
+    "start_url": "https://reternx-customer-portal.vercel.app/login/MnbQnRNseJdgMXPufJ07dJ18ZS0M3eBloXH9hTGK1CLJ8QoVB7R20RmpXleniWWJ_1634040318",
+    "display": "standalone",
+    "background_color": "#000000"
+  }
