@@ -29,3 +29,5 @@ async function handleInstallClick() {
     const { outcome } = await deferredPrompt.userChoice;
     console.log(`User response to the install prompt: ${outcome}`);
 };
+
+btnDownloadPWA.addEventListener('click', handleInstallClick)
